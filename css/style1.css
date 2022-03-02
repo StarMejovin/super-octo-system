@@ -1,0 +1,19 @@
+.one{
+    margin: 0;
+    padding: 100px;
+    padding-right: 0px;
+
+}
+.two{
+    color: rgb(17, 0, 80);
+    text-transform: uppercase;
+    
+}
+.three{
+    text-shadow: 130px 130px;
+}
+h1{
+    background-color: #ffffff;
+    color: rgb(17, 0, 80);
+    
+}
